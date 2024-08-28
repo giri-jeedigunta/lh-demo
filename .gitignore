@@ -130,3 +130,4 @@ dist
 .pnp.*
 tokens.txt
 .DS_Store
+.lighthouseci
